@@ -1,4 +1,10 @@
 ### Hi there 👋
+Arturo Mendoza here
+- 🌱 I’m currently learning to code, right now starting Learn Enough Text Editor to be dangerous
+
+My badges here:
+
+<a href="https://www.learnenough.com/certificates/417a9880"><img src="https://www.learnenough.com/certificates/417a9880/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a>
 
 <!--
 **ArturoMendozaA/ArturoMendozaA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
