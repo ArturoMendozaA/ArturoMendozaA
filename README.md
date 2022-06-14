@@ -4,7 +4,7 @@ Arturo Mendoza here
 
 My badges here:
 
-<a href="https://www.learnenough.com/certificates/417a9880"><img src="https://www.learnenough.com/certificates/417a9880/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a><a href="https://www.learnenough.com/certificates/417a9880"><img src="https://www.learnenough.com/certificates/417a9880/text-editor-tutorial.svg" alt="Certificate of Completion for Learn Enough Text Editor"></a>
+<a href="https://www.learnenough.com/certificates/417a9880"><img src="https://www.learnenough.com/certificates/417a9880/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a><a href="https://www.learnenough.com/certificates/417a9880"><img src="https://www.learnenough.com/certificates/417a9880/text-editor-tutorial.svg" alt="Certificate of Completion for Learn Enough Text Editor"></a><a href="https://www.learnenough.com/certificates/417a9880"><img src="https://www.learnenough.com/certificates/417a9880/git-tutorial.svg" alt="Certificate of Completion for Learn Enough Git"></a>
 
 <!--
 **ArturoMendozaA/ArturoMendozaA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
