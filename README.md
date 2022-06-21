@@ -1,6 +1,6 @@
 ### Hi there 👋
 Arturo Mendoza here
-- 🌱 I’m currently learning to code, right now starting Learn Enough Text Editor to be dangerous
+- 🌱 I’m currently learning to code, right now studying javascript
 
 My badges here:
 
